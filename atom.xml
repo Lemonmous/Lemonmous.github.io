@@ -6,7 +6,7 @@
   <link href="http://wlemonmous.github.io/atom.xml" rel="self"/>
   
   <link href="http://wlemonmous.github.io/"/>
-  <updated>2022-03-22T03:22:28.904Z</updated>
+  <updated>2022-03-22T03:48:23.676Z</updated>
   <id>http://wlemonmous.github.io/</id>
   
   <author>
@@ -17,13 +17,13 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="http://wlemonmous.github.io/posts/0.html"/>
-    <id>http://wlemonmous.github.io/posts/0.html</id>
-    <published>2022-03-22T03:20:42.737Z</published>
-    <updated>2022-03-22T03:22:28.904Z</updated>
+    <title>hello world</title>
+    <link href="http://wlemonmous.github.io/posts/1.html"/>
+    <id>http://wlemonmous.github.io/posts/1.html</id>
+    <published>2022-03-21T16:00:00.000Z</published>
+    <updated>2022-03-22T03:48:23.676Z</updated>
     
-    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="拉了好长一段时间，昨晚就把他搞上线了"><a href="#拉了好长一段时间，昨晚就把他搞上线了" class="headerlink" title="拉了好长一段时间，昨晚就把他搞上线了"></a>拉了好长一段时间，昨晚就把他搞上线了</h1>]]></content>
+    <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
     
     
       
@@ -33,6 +33,10 @@
     
     
     
+    <category term="开篇" scheme="http://wlemonmous.github.io/categories/%E5%BC%80%E7%AF%87/"/>
+    
+    
+    <category term="hello world" scheme="http://wlemonmous.github.io/tags/hello-world/"/>
     
   </entry>
   
