@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>http://wlemonmous.github.io/posts/0.html</loc>
-    
-    <lastmod>2022-03-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://wlemonmous.github.io/404.html</loc>
     
     <lastmod>2022-03-22</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://wlemonmous.github.io/List/movies/index.html</loc>
+    <loc>http://wlemonmous.github.io/List/music/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -128,7 +119,7 @@
   </url>
   
   <url>
-    <loc>http://wlemonmous.github.io/List/music/index.html</loc>
+    <loc>http://wlemonmous.github.io/List/movies/index.html</loc>
     
     <lastmod>2022-03-21</lastmod>
     
@@ -271,20 +262,6 @@
   </url>
 
   
-  <url>
-    <loc>http://wlemonmous.github.io/tags/hello-world/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
-  
-  <url>
-    <loc>http://wlemonmous.github.io/categories/%E5%BC%80%E7%AF%87/</loc>
-    <lastmod>2022-03-22</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 </urlset>
