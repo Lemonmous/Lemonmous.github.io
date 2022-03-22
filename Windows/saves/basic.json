@@ -220,7 +220,7 @@
             "desc": "个人博客",
             "icon": {
                 "type": "img",
-                "content": "https://s1.ax1x.com/2022/03/22/qKulfe.jpg",
+                "content": "https://s1.ax1x.com/2022/03/22/qQ23m4.jpg",
                 "bg": "#6b96cf"
             },
             "openMode": "normal",
@@ -670,7 +670,7 @@
                 "width": "x*0.8"
             },
             "title": "GoogleHacking",
-            "url": "http://luckyzmj.cn/GoogleHacking/",
+            "url": "http://lemonmous.github.io/GoogleHacking/",
             "customTile": "",
             "urlRandomToken": true
         },
