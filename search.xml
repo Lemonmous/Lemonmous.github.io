@@ -5,10 +5,10 @@
     
     <entry>
       <title>hello world</title>
-      <link href="/posts/1.html"/>
-      <url>/posts/1.html</url>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
       
-        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script>]]></content>
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h3 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h3><p>拉了好长一段时间，昨晚就把他搞上线了</p>]]></content>
       
       
       <categories>
