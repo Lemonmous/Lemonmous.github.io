@@ -6,7 +6,7 @@
   <link href="http://lemonmous.github.io/atom.xml" rel="self"/>
   
   <link href="http://lemonmous.github.io/"/>
-  <updated>2022-03-23T06:00:32.067Z</updated>
+  <updated>2022-03-23T15:10:32.668Z</updated>
   <id>http://lemonmous.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="http://lemonmous.github.io/posts/0.html"/>
     <id>http://lemonmous.github.io/posts/0.html</id>
     <published>2022-03-21T16:00:00.000Z</published>
-    <updated>2022-03-23T06:00:32.067Z</updated>
+    <updated>2022-03-23T15:10:32.668Z</updated>
     
     
       
@@ -34,7 +34,7 @@
     
     
     
-    <category term="开篇" scheme="http://lemonmous.github.io/categories/%E5%BC%80%E7%AF%87/"/>
+    <category term="随笔" scheme="http://lemonmous.github.io/categories/%E9%9A%8F%E7%AC%94/"/>
     
     
     <category term="hello world" scheme="http://lemonmous.github.io/tags/hello-world/"/>
