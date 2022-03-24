@@ -546,7 +546,10 @@
                 <script src="https://cdn.jsdelivr.net/npm/typed.js@2.0.11"></script>
                 <script>
                     var typed = new Typed("#subtitle", {
-                        strings: ['一切的一切,时间会给我们答案！','Everything, time will give us the answer!'],
+                         strings: ['一切的一切,时间会给我们答案！',
+                          '没有伞的孩子必须努力奔跑！',
+                          '如果放弃太早，你永远都不知道自己会错过什么。',
+                          '没有礁石，就没有美丽的浪花；没有挫折，就没有壮丽的人生。'],
                         startDelay: 300,
                         typeSpeed: 100,
                         loop: true,
@@ -1043,6 +1046,13 @@ $(function () {
             document.write('<script type="text/javascript" src="/js/sakura.js"><\/script>');
         }
         </script>
+    <script type="text/javascript">
+        var OriginTitile=document.title,st;
+        document.addEventListener("visibilitychange",function(){
+            document.hidden?(document.title="😱你别走吖 Σ(っ °Д °;)っ",clearTimeout(st)):(document.title="😘你可算回来了 (｡•ˇˇ•｡)",st=setTimeout(function(){document.title=OriginTitile},3e3))
+        })
+    </script>
+    
 
 <script src="/live2dw/lib/L2Dwidget.min.js?094cbace49a39548bed64abff5988b05"></script><script>L2Dwidget.init({"pluginRootPath":"live2dw/","pluginJsPath":"lib/","pluginModelPath":"assets/","model":{"jsonPath":"/live2dw/assets/tororo.model.json"},"display":{"position":"left","width":150,"height":300},"mobile":{"show":true},"react":{"opacityDefault":1,"opacityOnHover":1},"log":false,"tagMode":false});</script><script>
             window.imageLazyLoadSetting = {
