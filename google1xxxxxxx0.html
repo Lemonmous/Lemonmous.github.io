@@ -1208,21 +1208,21 @@ new Valine({
         el: '#vcomments',
         appId: 'A3pw1Q8eCsAliB5f4J7I5nwG-MdYXbMMI',
         appKey: 'kM0eUVDafazYegK6jsptSpoI',
-        notify: 'true' === 'true',
-        verify: 'false' === 'true',
-        visitor: 'true' === 'true',
+        placeholder: '留下你的足迹..',
+        path: window.location.pathname //window.location.pathname (默认值，推荐)/window.location.href/自定义 如果值为window.location.href，可能会出现随便加不同参数进入该页面，而被判断成新页面的情况。
         avatar: 'monsterid',
+        meta: ["nick", "mail", "link"],
         pageSize: '10',
         lang: 'zh-CN',
-        placeholder: '留下你的足迹..',
-        meta: ["nick", "mail", "link"],
+        visitor: 'true' === 'true',
+        highlight: 'true',
+        avatarForce: 'false',   
         recordIP: 'true' === 'true',
-        enableQQ: 'monsterid',
-        requiredFields: ["46606772953bed0812789d6dc955614e"],
+        requiredFields: ["nick", "mail"],
         master: ["46606772953bed0812789d6dc955614e"],
         friends: ["cb3e577ff029d6073400d5557effd41f", ""],
         tagMeta: ["博主", "小伙伴", "访客"],
-        metaPlaceholder: metaPlaceholder,
+        metaPlaceholder: '[object Object]', 
         emojiCDN: '//i0.hdslb.com/bfs/emote/', 
         // 表情title和图片映射
         emojiMaps: {
@@ -1305,52 +1305,6 @@ new Valine({
 
 
     
-
-    
-        <style>
-    .mvaline-card {
-        margin: 1.5rem auto;
-    }
-
-    .mvaline-card .card-content {
-        padding: 20px 20px 5px 20px;
-    }
-</style>
-
-<div class="card mvaline-card" data-aos="fade-up">
-    <div class="comment_headling" style="font-size: 20px; font-weight: 700; position: relative; padding-left: 20px; top: 15px; padding-bottom: 5px;">
-        <i class="fas fa-comments fa-fw" aria-hidden="true"></i>
-        <span>评论</span>
-    </div>
-    <div id="mvcomments" class="card-content" style="display: grid">
-    </div>
-</div>
-
-<script src="/libs/minivaline/MiniValine.js"></script>
-<script>
-    new MiniValine({
-        el: '#mvcomments',
-        appId: 'A3pw1Q8eCsAliB5f4J7I5nwG-MdYXbMMI',
-        appKey: 'kM0eUVDafazYegK6jsptSpoI',
-        mode: 'DesertsP',
-        placeholder: '快来评论吧~',
-        pathname: window.location.pathname,
-        lang: 'zh-cn',
-        adminEmailMd5: '46606772953bed0812789d6dc955614e',
-        tagMeta: ["博主", "小伙伴", "访客"],
-        master: ["46606772953bed0812789d6dc955614e"],
-        friends: ["cb3e577ff029d6073400d5557effd41f"],
-        math: true,
-        md: true,
-        enableQQ: true,
-        NoRecordIP: true,
-        visitor: true,
-        maxNest: 6,
-        pageSize: 6,
-        serverURLs: '',
-        emoticonUrl: ["https://cdn.jsdelivr.net/npm/alus@latest", "https://cdn.jsdelivr.net/gh/MiniValine/qq@latest", "https://cdn.jsdelivr.net/gh/MiniValine/Bilibilis@latest", "https://cdn.jsdelivr.net/gh/MiniValine/tieba@latest", "https://cdn.jsdelivr.net/gh/MiniValine/twemoji@latest", "https://cdn.jsdelivr.net/gh/MiniValine/weibo@latest"],
-    });
-</script>
 
     
 
