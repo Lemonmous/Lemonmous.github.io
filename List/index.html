@@ -1210,21 +1210,23 @@ new Valine({
         el: '#vcomments',
         appId: 'A3pw1Q8eCsAliB5f4J7I5nwG-MdYXbMMI',
         appKey: 'kM0eUVDafazYegK6jsptSpoI',
-        placeholder: '留下你的足迹..',
-        path: window.location.pathname //window.location.pathname (默认值，推荐)/window.location.href/自定义 如果值为window.location.href，可能会出现随便加不同参数进入该页面，而被判断成新页面的情况。
-        avatar: 'monsterid',
-        meta: ["nick", "mail", "link"],
+        notify: 'true' === 'true',
+        verify: 'true' === 'true',
+        visitor: 'true' === 'true',
+        avatar: 'wavatar',
         pageSize: '10',
         lang: 'zh-CN',
-        visitor: 'true' === 'true',
-        highlight: 'true',
-        avatarForce: 'false',   
+        placeholder: '昵称填QQ号会自动匹配邮箱喔~ 快来留下你的足迹吧！',
+        meta: ["nick", "mail", "link"],
         recordIP: 'true' === 'true',
-        requiredFields: ["nick", "mail"],
+        enableQQ: 'wavatar',
+        serverURLs:'https://a3pw1q8e.api.lncldglobal.com',
+        requiredFields: ["46606772953bed0812789d6dc955614e"],
         master: ["46606772953bed0812789d6dc955614e"],
-        friends: ["cb3e577ff029d6073400d5557effd41f", ""],
+        friends: ["cb3e577ff029d6073400d5557effd41f"],
         tagMeta: ["博主", "小伙伴", "访客"],
-        metaPlaceholder: '[object Object]', 
+        serverURLs: 'https://a3pw1q8e.api.lncldglobal.com',
+        metaPlaceholder: metaPlaceholder,
         emojiCDN: '//i0.hdslb.com/bfs/emote/', 
         // 表情title和图片映射
         emojiMaps: {
@@ -1303,6 +1305,7 @@ new Valine({
         }
         }, true);
 </script>
+
 
 
 
