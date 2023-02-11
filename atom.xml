@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>椼酀</title>
+  
+  <subtitle>椼酀の博客</subtitle>
+  <link href="http://050710.xyz/atom.xml" rel="self"/>
+  
+  <link href="http://050710.xyz/"/>
+  <updated>2023-02-11T08:00:13.548Z</updated>
+  <id>http://050710.xyz/</id>
+  
+  <author>
+    <name>椼酀</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>优化</title>
+    <link href="http://050710.xyz/posts/1.html"/>
+    <id>http://050710.xyz/posts/1.html</id>
+    <published>2022-03-26T00:00:00.000Z</published>
+    <updated>2023-02-11T08:00:13.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://050710.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="hello world" scheme="http://050710.xyz/tags/hello-world/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>hello world</title>
+    <link href="http://050710.xyz/posts/0.html"/>
+    <id>http://050710.xyz/posts/0.html</id>
+    <published>2022-03-22T00:00:00.000Z</published>
+    <updated>2023-02-11T08:00:13.548Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;link rel=&quot;stylesheet&quot; class=&quot;aplayer-secondary-style-marker&quot; href=&quot;/assets/css/APlayer.min.css&quot;&gt;&lt;script src=&quot;/assets/js/APlayer.min.js&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="随笔" scheme="http://050710.xyz/categories/%E9%9A%8F%E7%AC%94/"/>
+    
+    
+    <category term="hello world" scheme="http://050710.xyz/tags/hello-world/"/>
+    
+  </entry>
+  
+</feed>

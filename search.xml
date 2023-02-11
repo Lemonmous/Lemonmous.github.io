@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>优化</title>
+      <link href="/posts/1.html"/>
+      <url>/posts/1.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>优化了评论区和一些基本设置（音乐我设置了自动播放，不需要的页面左下角可暂停）<br>增加了说说、在线聊天、鼠标特效、宠物模型以及几个小工具</p><h2 id="网页及功能"><a href="#网页及功能" class="headerlink" title="网页及功能"></a>网页及功能</h2><h3 id="说说"><a href="#说说" class="headerlink" title="说说"></a>说说</h3><p>  通过导航网可进行页面跳转</p><h3 id="评论区"><a href="#评论区" class="headerlink" title="评论区"></a>评论区</h3><p>  评论区可能发送一次没反应，系统在休眠，重新发送就行，评论记得确认发送</p><h3 id="在线聊天"><a href="#在线聊天" class="headerlink" title="在线聊天"></a>在线聊天</h3><p>  可通过页面右下角的图标可打开聊天窗口</p><h3 id="文章目录"><a href="#文章目录" class="headerlink" title="文章目录"></a>文章目录</h3><p>  可通过页面右下角的图标 <strong>开/关</strong> 目录</p><h3 id="添加了在线Google-Hacking小工具"><a href="#添加了在线Google-Hacking小工具" class="headerlink" title="添加了在线Google Hacking小工具"></a>添加了在线Google Hacking小工具</h3><blockquote><ul><li>项目地址：<a href="https://github.com/r00tSe7en/GoogleHackingTool">https://github.com/r00tSe7en/GoogleHackingTool</a><blockquote><p>只需在输入框内输入搜索的站点网址，再选择相应的搜索选项，即可快速查找目标站点信息。</p></blockquote></li></ul></blockquote><p>  我没有加到我博客的导航栏上，但是还是可以访问的，通过<a href="https://050710.xyz/GoogleHacking">https://050710.xyz/GoogleHacking</a></p><h2 id="最后"><a href="#最后" class="headerlink" title="最后"></a>最后</h2><p>  其他的就不一一介绍了，有兴趣可自行探索</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>hello world</title>
+      <link href="/posts/0.html"/>
+      <url>/posts/0.html</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="/assets/css/APlayer.min.css"><script src="/assets/js/APlayer.min.js" class="aplayer-secondary-script-marker"></script><h2 id="为什么建博客？"><a href="#为什么建博客？" class="headerlink" title="为什么建博客？"></a>为什么建博客？</h2><p> 纯属个人兴趣，好玩，就是玩！嘿嘿！<br> 毕竟建完会有些成就感吧,还有拥有一个自己的博客写一些自己感兴趣的事或物,不是一件很酷的事嘛!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 随笔 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
